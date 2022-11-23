@@ -1,11 +1,8 @@
 # 01 Project - Build a Chatbot
 
-Write logic for a chatbot to reply to user input
-
-
 ## Project Brief
 
-Build a chatbot that helps your customer solve a problem. Your customer will be able to enter text into a form, and your bot should analyse the text and respond accordingly.
+A chatbot that helps the customers by suggesting a meal based on thier choices. A customer will be able to enter text into a form, and the bot analyses the text and responds accordingly.
 
 
 **Acceptance criteria**
